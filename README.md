@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Jair!
 
-<!--
-**jairzinhou/jairzinhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎂 Tenho 21 anos de idade
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+- 🚀 Estudo para desenvolvimento backend
+- ☁️ Node.js e JavaScript
+- 🗄️ PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Aprendizado Contínuo
+- 🌱 Sempre buscando aprender novas tecnologias
+- 👨‍💻 Explorando o mundo do desenvolvimento web
+
+## 📫 Entre em Contato
+- [LinkedIn](https://www.linkedin.com/in/jairaraujot/)
+- [Email](jairaraujo209@gmail.com.com)
+
